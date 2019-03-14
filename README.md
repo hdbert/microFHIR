@@ -1,3 +1,4 @@
+![microFHIR](/microFHIR.png)
 ## Welcome to microFHIR!
 
 This website is intended to help bring FHIR to resource constrained microcontroller based medical devices, in a way that such devices caninteract with a FHIR server directly.
